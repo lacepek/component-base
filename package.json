@@ -6,7 +6,7 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lacepek/typescript-library-boilerplate.git"
+    "url": "https://github.com/lacepek/component-base.git"
   },
   "author": "Ladislav Čepek",
   "license": "MIT",
