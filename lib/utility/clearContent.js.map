@@ -1,0 +1,1 @@
+{"version":3,"file":"clearContent.js","sourceRoot":"","sources":["../../src/utility/clearContent.ts"],"names":[],"mappings":";;;;;AAAA,sEAA8C;AAE9C,MAAM,YAAY,GAAG,CAAC,MAAW,EAAe,EAAE;IAEhD,MAAM,WAAW,GAAG,wBAAc,CAAC,MAAM,CAAC,CAAC;IAE3C,OAAO,WAAW,CAAC,UAAU,EAAE;QAC7B,WAAW,CAAC,WAAW,CAAC,WAAW,CAAC,UAAU,CAAC,CAAC;KACjD;IAED,OAAO,WAAW,CAAC;AACrB,CAAC,CAAC;AAEF,kBAAe,YAAY,CAAC"}

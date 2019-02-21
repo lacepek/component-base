@@ -1,0 +1,1 @@
+{"version":3,"file":"getRealElement.js","sourceRoot":"","sources":["../../src/utility/getRealElement.ts"],"names":[],"mappings":";;AAAA,MAAM,cAAc,GAAG,CAAC,MAAW,EAAe,EAAE;IAElD,IAAI,MAAM,YAAY,WAAW,EAAE;QACjC,OAAO,MAAM,CAAC;KACf;SAAM;QACL,OAAO,MAAM,CAAC,OAAO,CAAC;KACvB;AACH,CAAC,CAAC;AAEF,kBAAe,cAAc,CAAC"}
