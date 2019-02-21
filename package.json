@@ -1,5 +1,5 @@
 {
-  "name": "component-base",
+  "name": "@lck/component-base",
   "version": "1.0.0",
   "description": "Base Component",
   "typings": "./lib/index.d.ts",
